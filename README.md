@@ -89,7 +89,7 @@ or if you have GitHub CLI
 gh repo clone 3kh0/3kh0.github.io
 ```
 
-This project does not require any backendservers, for the best expericance, I suggest using [XAMPP](https://www.apachefriends.org/) and cloning the repo into the Apache Server directory at `C:\xampp\htdocs` (for windows) and set the port to something like 8080 and open up a browser and point to `localhost:8080`
+Since this project does not require a backend, for the best experience I suggest using [XAMPP](https://www.apachefriends.org/), cloning the repo into the Apache Server directory at `C:\xampp\htdocs` (for windows), setting the port to something like 8080, opening up a browser and going to [`localhost:8080`](http://localhost:8080)
 
 > **Warning**
 > Please make your you know what you are doing, you could delete your entire drive if you are not careful!
@@ -102,7 +102,7 @@ This project does not require any backendservers, for the best expericance, I su
 This code is licensed under the **Apache-2.0 License**. I ask you that you do not copy the code in the repo what-so-ever; I take time to build this and I do not need someone just yoinking all of my games for ones site. If you have any questions please open a issue!
 
 > **Note**
-> You can view the full license [here](https://github.com/3kh0/3kh0.github.io/blob/main/LICENSE.md)!
+> You can view the full license [here](https://github.com/3kh0/3kh0.github.io/blob/main/LICENSE)!
 
 
 ## Previous versions
